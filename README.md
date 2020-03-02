@@ -21,4 +21,4 @@
 
 # Next Steps
 
-Next steps for these models would include adding more stats, like advanced stats such as rating, including opponent's stats during halftime, and possibly trying a different model. 
+Next steps for these models would include adding more stats, like advanced stats such as rating, including opponent's stats during halftime, and adding spread lines and odds during halftime as features. 
