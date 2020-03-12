@@ -13,7 +13,7 @@
 
 ## Notebook 4
 
-**Modeling**: I ran a simple log regression model for each of the targets indicating spread and cross validated the test set ranging from 70 to 80% accuracy. This notebook also has functions for finding feature importances for each model that identifies what features are the most important for each different model.
+**Modeling**: I ran a simple log regression model for each of the targets indicating spread and cross validated the test set ranging from 70 to 80% accuracy. This notebook also has functions for finding feature importances for each model that identifies what features are the most important for each different model. The higher point spreads end up having a lower F1 score, which is a combination in the confidence the model is in predicting the true positive rate and getting it right. In order to make it better, I will have to try using imbalancing methods in order to get it more information.
 
 ## Notebook 5
 
